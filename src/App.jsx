@@ -10,6 +10,7 @@ import "./App.css"
 import Pricing from './components/Pricing';
 import Contact from './components/Contact';
 import BMICalculator from './components/BMICalculator';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
     <Pricing/>
     <Contact/>
     <BMICalculator/>
+    <Footer/>
     <ToastContainer theme='dark' position='top-center'/>
     </Router>
     </>

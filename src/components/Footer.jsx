@@ -2,7 +2,9 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div>Footer</div>
+    <footer>
+      Design and Developed By Wahhaj
+      </footer>
   )
 }
 
