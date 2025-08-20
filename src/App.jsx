@@ -9,6 +9,7 @@ import Gallery from './components/Gallery';
 import "./App.css" 
 import Pricing from './components/Pricing';
 import Contact from './components/Contact';
+import BMICalculator from './components/BMICalculator';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
     <Gallery/>
     <Pricing/>
     <Contact/>
+    <BMICalculator/>
     <ToastContainer theme='dark' position='top-center'/>
     </Router>
     </>
